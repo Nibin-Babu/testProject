@@ -1,0 +1,23 @@
+{
+  "name": "testProject",
+  "version": "1.0.0",
+  "description": "Hello\r https://test-project-host-app.herokuapp.com/ | https://git.heroku.com/test-project-host-app.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nibin-Babu/testProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nibin-Babu/testProject/issues"
+  },
+  "homepage": "https://github.com/Nibin-Babu/testProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
